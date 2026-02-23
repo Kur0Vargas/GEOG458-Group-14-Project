@@ -13,3 +13,6 @@ Our group is looking to create an interactive web map that visualizes the enviro
 ## Target Audience
 The target audience in this project will ideally be students, researchers, and the general public who are interested in the conditions in Seattle's traffic scene. Policy planners and government officials may benefit from this type of content, but the aforementioned will likely find themselves aligned with this project more so than the latter.
 
+## AI Disclosure
+
+- AI used for ......
